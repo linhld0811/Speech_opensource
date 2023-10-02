@@ -21,6 +21,10 @@ I. Open Source
 ## TTS
 ### I. Open Source
 ### II. Metric
-1. [NISQA](https://github.com/gabrielmittag/NISQA): MOS - Mean Opinion Score
-2. 
+1. [NISQA](https://github.com/gabrielmittag/NISQA):
+MOS - Mean Opinion Score
+2. [MCD](https://github.com/MattShannon/mcd):
+- Mel cepstral distortion (MCD) is a measure of how different two sequences of mel cepstra are.
+- The smaller the MCD between synthesized and natural mel cepstral sequences, the closer the synthetic speech is to reproducing natural speech.
+   
 
