@@ -21,6 +21,6 @@ I. Open Source
 ## TTS
 ### I. Open Source
 ### II. Metric
-1. [MOS](https://github.com/gabrielmittag/NISQA):Mean Opinion Score
+1. [NISQA](https://github.com/gabrielmittag/NISQA): MOS - Mean Opinion Score
 2. 
 
