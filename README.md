@@ -5,8 +5,7 @@ I. Open Source
 2. [silero](https://github.com/snakers4/silero-vad)
 ## Speech Enhancement
 I. Open Source:
-1. CleanUnet: <br>
-Repo: https://github.com/NVIDIA/CleanUNet/tree/main
+1. [CleanUnet](https://github.com/NVIDIA/CleanUNet/tree/main)
 2. 
 
 ## TTS
