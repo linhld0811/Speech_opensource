@@ -19,5 +19,8 @@ I. Open Source
 - It is based on the idea that speech quality can be measured by how well the listener can understand the speech and how pleasant it sounds.  <br>
 - Higher PESQ scores indicate better quality.
 ## TTS
-I. Open Source
+### I. Open Source
+### II. Metric
+1. [MOS](https://github.com/gabrielmittag/NISQA):Mean Opinion Score
+2. 
 
