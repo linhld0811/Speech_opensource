@@ -7,6 +7,7 @@ I. Open Source
 ## Speech Enhancement
 ### I. Open Source:
 1. [CleanUnet](https://github.com/NVIDIA/CleanUNet/tree/main)
+2. [DeepFilterNet](https://github.com/Rikorose/DeepFilterNet/tree/main): A Low Complexity Speech Enhancement Framework for Full-Band Audio (48kHz) using on Deep Filtering.
 ### II. Metric
 1. [STOI](https://github.com/mpariente/pystoi): <br>
 - Short-Time Objective Intelligibility Measure: is calculated by comparing the short-term power spectra of the noisy speech and the clean speech. <br>
