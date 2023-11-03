@@ -24,7 +24,7 @@ I. Open Source
 1. [VITS Fast Fine-tuning](https://github.com/Plachtaa/VITS-fast-fine-tuning/tree/main)
 2. [NaturalSpeech](https://github.com/heatz123/naturalspeech/tree/main) - [Demo](https://github.com/heatz123/naturalspeech/wiki) - [Paper](https://arxiv.org/pdf/2205.04421.pdf)
 3. [NaturalSpeech2](https://github.com/lucidrains/naturalspeech2-pytorch/tree/main) - [Demo](https://speechresearch.github.io/naturalspeech2/) - [Paper](https://arxiv.org/pdf/2304.09116.pdf)
-4. 
+4. [Efficient Speech](https://github.com/roatienza/efficientspeech): An On-Device Text to Speech Model
 ### II. Metric
 1. [NISQA](https://github.com/gabrielmittag/NISQA):
 MOS - Mean Opinion Score
