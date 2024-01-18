@@ -47,7 +47,7 @@ MOS - Mean Opinion Score
 4. [Encodec](https://github.com/facebookresearch/encodec): High Fidelity Neural Audio Compression
 5. 
 ## Vocoder
-1. [Vocos](https://github.com/gemelo-ai/vocos)[paper](https://arxiv.org/pdf/2306.00814.pdf):  fast neural vocoder designed to synthesize audio waveforms from acoustic features.
+1. [Vocos](https://github.com/gemelo-ai/vocos), [paper](https://arxiv.org/pdf/2306.00814.pdf):  fast neural vocoder designed to synthesize audio waveforms from acoustic features.
 ## Audio Generation
 ### I. Open Source
 1. [Auffusion](https://github.com/happylittlecat2333/Auffusion): Leveraging the Power of Diffusion and Large Language Models for Text-to-Audio Generation
