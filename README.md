@@ -35,11 +35,25 @@ MOS - Mean Opinion Score
 - Mel cepstral distortion (MCD) is a measure of how different two sequences of mel cepstra are.
 - The smaller the MCD between synthesized and natural mel cepstral sequences, the closer the synthetic speech is to reproducing natural speech.
 3. 
-
+## Zero-Shot TTS
+### I. Open Source
+1. [Vall-e](https://github.com/lifeiteng/vall-e) (for training); [Vall-E-X](https://github.com/Plachtaa/VALL-E-X)
+2. 
+## Audio Encode
+### I. Open Source
+1. [Vector Quantization](https://github.com/lucidrains/vector-quantize-pytorch)
+2. [AudioLM](https://github.com/lucidrains/audiolm-pytorch): 
+3. [SoundStream](https://arxiv.org/pdf/2107.03312.pdf)(2021): An End-to-End Neural Audio Codec
+4. [Encodec](https://github.com/facebookresearch/encodec): High Fidelity Neural Audio Compression
+5. 
+## Vocoder
+1. [Vocos](https://github.com/gemelo-ai/vocos)[paper](https://arxiv.org/pdf/2306.00814.pdf):  fast neural vocoder designed to synthesize audio waveforms from acoustic features.
 ## Audio Generation
 ### I. Open Source
 1. [Auffusion](https://github.com/happylittlecat2333/Auffusion): Leveraging the Power of Diffusion and Large Language Models for Text-to-Audio Generation
-2. 
+2. [Bark](https://github.com/suno-ai/bark): transformer-based text-to-audio model. Bark can generate highly realistic, multilingual speech as well as other audio - including music, background noise and simple sound effects. The model can also produce nonverbal communications like laughing, sighing and crying.
 ### II. Metric
 1. [Audioldm](https://github.com/haoheliu/audioldm_eval): 
 2. [Torch-fidelity](https://github.com/toshas/torch-fidelity)
+## Pitch 
+1. [Crepe](https://github.com/maxrmorrison/torchcrepe): Crepe: A Convolutional Representation for Pitch Estimation
