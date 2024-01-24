@@ -27,7 +27,8 @@ I. Open Source
 2. [NaturalSpeech](https://github.com/heatz123/naturalspeech/tree/main) - [Demo](https://github.com/heatz123/naturalspeech/wiki) - [Paper](https://arxiv.org/pdf/2205.04421.pdf)
 3. [NaturalSpeech2](https://github.com/lucidrains/naturalspeech2-pytorch/tree/main) - [Demo](https://speechresearch.github.io/naturalspeech2/) - [Paper](https://arxiv.org/pdf/2304.09116.pdf)
 4. [Efficient Speech](https://github.com/roatienza/efficientspeech): An On-Device Text to Speech Model
-5. 
+5. [StyleTTS](https://github.com/yl4579/StyleTTS) - [Paper](https://arxiv.org/pdf/2205.15439.pdf) - [Demo](https://styletts.github.io/)
+6. [EmotiVoice](https://github.com/netease-youdao/EmotiVoice)
 ### II. Metric
 1. [NISQA](https://github.com/gabrielmittag/NISQA):
 MOS - Mean Opinion Score
