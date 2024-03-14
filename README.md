@@ -8,7 +8,8 @@ I. Open Source
 ### I. Open Source:
 1. [CleanUnet](https://github.com/NVIDIA/CleanUNet/tree/main)
 2. [DeepFilterNet](https://github.com/Rikorose/DeepFilterNet/tree/main): A Low Complexity Speech Enhancement Framework for Full-Band Audio (48kHz) using on Deep Filtering.
-3. 
+3. [Voicefixer](https://github.com/haoheliu/voicefixer): restore human speech regardless how serious its degraded. It can handle noise, reveberation, low resolution (2kHz~44.1kHz) and clipping (0.1-1.0 threshold) effect within one model.
+4. 
 ### II. Metric
 1. [STOI](https://github.com/mpariente/pystoi): <br>
 - Short-Time Objective Intelligibility Measure: is calculated by comparing the short-term power spectra of the noisy speech and the clean speech. <br>
@@ -20,7 +21,7 @@ I. Open Source
 - The results of the listening test are then used to calculate the PESQ score. <br>
 - It is based on the idea that speech quality can be measured by how well the listener can understand the speech and how pleasant it sounds.  <br>
 - Higher PESQ scores indicate better quality.
-3. [Voicefixer](https://github.com/haoheliu/voicefixer): restore human speech regardless how serious its degraded. It can handle noise, reveberation, low resolution (2kHz~44.1kHz) and clipping (0.1-1.0 threshold) effect within one model.
+3. 
 ## TTS
 ### I. Open Source
 1. [VITS Fast Fine-tuning](https://github.com/Plachtaa/VITS-fast-fine-tuning/tree/main)
