@@ -40,7 +40,7 @@ MOS - Mean Opinion Score
 ## Zero-Shot TTS
 ### I. Open Source
 1. [Vall-e](https://github.com/lifeiteng/vall-e) (for training); [Vall-E-X](https://github.com/Plachtaa/VALL-E-X)
-2. 
+2. [OpenVoice](https://github.com/myshell-ai/OpenVoice)
 ## Audio Encode
 ### I. Open Source
 1. [Vector Quantization](https://github.com/lucidrains/vector-quantize-pytorch)
