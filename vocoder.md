@@ -4,8 +4,8 @@
     - Loss: Same APNet2
 2. [APNet2](https://github.com/redmist328/APNet2) - [paper](https://arxiv.org/pdf/2311.11545) - [20/Nov/2023]:
     - Generator:
-      * amplitude spectra predictor (ASP): 8xConvNeXtv2 -> Amplitude spectrum
-      * phase spectra predictor (PSP): 8xConvNeXtv2 -> Phase spectrum
+      * ASP: 8xConvNeXtv2 -> Amplitude spectrum
+      * PSP: 8xConvNeXtv2 -> Phase spectrum
       * ISTFT reconstruct the waveform
     - Loss:
       * Amplitude Spectrum Loss
@@ -20,9 +20,13 @@
      * Feature matching loss
      * MPD/MRD-based Hinge GAN loss
 4. [APNet](https://github.com/YangAi520/APNet) - [paper](https://arxiv.org/pdf/2305.07952) - [13/May/2023]:
+    - Generator:
+      * amplitude spectra predictor (ASP): ResNet -> Amplitude spectrum
+      * phase spectra predictor (PSP): Resnet -> Phase spectrum
+      * ISTFT reconstruct the waveform
     - Loss:
       * Amplitude Spectrum Loss
-      * Phase Spectrum Loss
+      * Phase Spectrum Loss: Instantaneous Phase Loss, Group Delay Loss, Phase Time Difference Loss
       * Recontructed STFT Spectrum loss
       * MPD/MSD with Least Squares GAN loss
       * Melspectrogram loss
