@@ -18,7 +18,7 @@ Features are extracted from speech every 20ms and are then compressed for transm
 6. [Hifi-Codec](https://github.com/yangdongchao/AcademiCodec) - [Paper](https://arxiv.org/pdf/2305.02765) - [7/5/2023]
 Sample rate: 24kHz & 16kHz
 7. [SpeechTokenizer](https://github.com/ZhangXInFD/SpeechTokenizer) - [paper](https://arxiv.org/pdf/2308.16692) - [31/08/2023]
-8. 
+8. [DAC](https://github.com/descriptinc/descript-audio-codec) - [Paper](https://arxiv.org/pdf/2306.06546) - [26/10/2023]
 ## References
 1. [Hearing range](https://en.wikipedia.org/wiki/Hearing_range): The human range is commonly given as 20 to 20,000 Hz
 2. [CBR](https://en.wikipedia.org/wiki/Constant_bitrate) and [VBR](https://en.wikipedia.org/wiki/Variable_bitrate)
