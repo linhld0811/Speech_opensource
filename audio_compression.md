@@ -1,5 +1,5 @@
 1. [Encodec](https://github.com/facebookresearch/encodec) - [paper](https://arxiv.org/pdf/2210.13438) - [24/10/2022]:
-Sample rate: 24kHz & 48kHz
+Sample rate: 24kHz & 48kHz at 24kbps
 Reconstruction Loss:
   - Time domain: L1 (target audio; compressed audio)
   - Frequency domain: L1; L2 of mel-spectrogram using several time scales
@@ -15,10 +15,13 @@ It is a versatile codec operating at multiple bitrates, 5.9 kbps to 128 kbps
 4. [Lyra](https://github.com/google/lyra) - [Paper](https://arxiv.org/pdf/2102.09660) - [18/2/2021] - Latest [21/12/2022]:
 Features are extracted from speech every 20ms and are then compressed for transmission at a desired bitrate between 3.2kbps and 9.2kbps
 5. [SoundStream](https://github.com/lucidrains/audiolm-pytorch) - [Paper](https://arxiv.org/pdf/2107.03312) - [7/7/2021]
+- 24kHz at 6kbps
 6. [Hifi-Codec](https://github.com/yangdongchao/AcademiCodec) - [Paper](https://arxiv.org/pdf/2305.02765) - [7/5/2023]
-Sample rate: 24kHz & 16kHz
+- Sample rate: 24kHz & 16kHz
 7. [SpeechTokenizer](https://github.com/ZhangXInFD/SpeechTokenizer) - [paper](https://arxiv.org/pdf/2308.16692) - [31/08/2023]
 8. [DAC](https://github.com/descriptinc/descript-audio-codec) - [Paper](https://arxiv.org/pdf/2306.06546) - [26/10/2023]
+- RVQGAN
+- Sample rate: 16kHz, 24kHz, 44.1kHz at 8kbps 
 ## References
 1. [Hearing range](https://en.wikipedia.org/wiki/Hearing_range): The human range is commonly given as 20 to 20,000 Hz
 2. [CBR](https://en.wikipedia.org/wiki/Constant_bitrate) and [VBR](https://en.wikipedia.org/wiki/Variable_bitrate)
