@@ -21,7 +21,10 @@ Features are extracted from speech every 20ms and are then compressed for transm
 7. [SpeechTokenizer](https://github.com/ZhangXInFD/SpeechTokenizer) - [paper](https://arxiv.org/pdf/2308.16692) - [31/08/2023]
 8. [DAC](https://github.com/descriptinc/descript-audio-codec) - [Paper](https://arxiv.org/pdf/2306.06546) - [26/10/2023]
 - RVQGAN
-- Sample rate: 16kHz, 24kHz, 44.1kHz at 8kbps 
+- Sample rate: 16kHz, 24kHz, 44.1kHz at 8kbps
+- switching out the relu activation for the snake activation: the periodic inductive bias of the snake activation is helpful for waveform generation
+- multi-band discriminator alleviates aliasing of high frequencies because its more easily able to detect these aliasing artifacts and give feedback to the
+generator to remove them
 ## References
 1. [Hearing range](https://en.wikipedia.org/wiki/Hearing_range): The human range is commonly given as 20 to 20,000 Hz
 2. [CBR](https://en.wikipedia.org/wiki/Constant_bitrate) and [VBR](https://en.wikipedia.org/wiki/Variable_bitrate)
