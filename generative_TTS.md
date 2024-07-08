@@ -1,0 +1,1 @@
+1. [FunAudioLLM](https://github.com/FunAudioLLM) - [Report](https://fun-audio-llm.github.io/) - [5/7/2024]: Voice Understanding and Generation Foundation Models for Natural Interaction Between Humans and LLMs
