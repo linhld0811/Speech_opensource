@@ -7,11 +7,13 @@
 3. [Voicefixer](https://github.com/haoheliu/voicefixer): restore human speech regardless how serious its degraded. It can handle noise, reveberation, low resolution (2kHz~44.1kHz) and clipping (0.1-1.0 threshold) effect within one model.
 4. 
 ### II. Metric
-1. [STOI](https://github.com/mpariente/pystoi): <br>
+1. [STOI](https://github.com/mpariente/pystoi):
+<details><summary>Descriptions</summary> 
 - Short-Time Objective Intelligibility Measure: is calculated by comparing the short-term power spectra of the noisy speech and the clean speech. <br>
 - The correlation between the two spectra is then used to calculate the STOI score. <br>
 - It is based on the idea that intelligibility can be measured by the correlation between the noisy speech and the clean speech.
-- Higher STOI scores indicate better intelligibility.
+- Higher STOI scores indicate better intelligibility.<br>
+</details>
 2. [PESQ](https://github.com/ludlows/PESQ):
 <details><summary>Descriptions</summary> 
   
