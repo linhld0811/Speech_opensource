@@ -1,9 +1,5 @@
 # Speech_opensource
-## VAD:
-I. Open Source
-1. [webrtc](https://github.com/wiseman/py-webrtcvad)
-2. [silero](https://github.com/snakers4/silero-vad)
-3. 
+## [VAD](https://github.com/linhld0811/Speech_opensource/blob/main/vad.md)
 ## Speech Enhancement
 ### I. Open Source:
 1. [CleanUnet](https://github.com/NVIDIA/CleanUNet/tree/main)
