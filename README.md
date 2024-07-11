@@ -13,13 +13,11 @@
 - It is based on the idea that intelligibility can be measured by the correlation between the noisy speech and the clean speech.
 - Higher STOI scores indicate better intelligibility.
 2. [PESQ](https://github.com/ludlows/PESQ):
-<details><summary>Descriptions:</summary>
-  
+<details><summary>Descriptions</summary> 
 - Perceptual Evaluation of Speech Quality is calculated by comparing the noisy speech and the clean speech using a listening test. <br>
 - The results of the listening test are then used to calculate the PESQ score.
 - It is based on the idea that speech quality can be measured by how well the listener can understand the speech and how pleasant it sounds.
 - Higher PESQ scores indicate better quality.
-
 </details>
 
 3. 
