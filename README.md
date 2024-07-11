@@ -15,8 +15,8 @@
 2. [PESQ](https://github.com/ludlows/PESQ):
 <details><summary>Descriptions</summary> 
 - Perceptual Evaluation of Speech Quality is calculated by comparing the noisy speech and the clean speech using a listening test. <br>
-- The results of the listening test are then used to calculate the PESQ score.
-- It is based on the idea that speech quality can be measured by how well the listener can understand the speech and how pleasant it sounds.
+- The results of the listening test are then used to calculate the PESQ score. <br>
+- It is based on the idea that speech quality can be measured by how well the listener can understand the speech and how pleasant it sounds. <br>
 - Higher PESQ scores indicate better quality.
 </details>
 
