@@ -1,5 +1,5 @@
 # Speech_opensource
-## [VAD](https://github.com/linhld0811/Speech_opensource/blob/main/vad.md)
+## [VAD](vad.md)
 ## Speech Enhancement
 ### I. Open Source:
 1. [CleanUnet](https://github.com/NVIDIA/CleanUNet/tree/main)
@@ -44,8 +44,7 @@ MOS - Mean Opinion Score
 3. [SoundStream](https://arxiv.org/pdf/2107.03312.pdf)(2021): An End-to-End Neural Audio Codec
 4. [Encodec](https://github.com/facebookresearch/encodec): High Fidelity Neural Audio Compression
 5. 
-## Vocoder
-1. [Vocos](https://github.com/gemelo-ai/vocos), [paper](https://arxiv.org/pdf/2306.00814.pdf) - ICLR2024:  fast neural vocoder designed to synthesize audio waveforms from acoustic features.
+## [Vocoder](vocoder.md)
 ## Audio Generation
 ### I. Open Source
 1. [Auffusion](https://github.com/happylittlecat2333/Auffusion): Leveraging the Power of Diffusion and Large Language Models for Text-to-Audio Generation
