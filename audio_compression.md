@@ -25,6 +25,8 @@ Features are extracted from speech every 20ms and are then compressed for transm
 - switching out the relu activation for the snake activation: the periodic inductive bias of the snake activation is helpful for waveform generation
 - multi-band discriminator alleviates aliasing of high frequencies because its more easily able to detect these aliasing artifacts and give feedback to the
 generator to remove them
+9. [FACodec](https://github.com/lifeiteng/naturalspeech3_facodec)
+9. [SemantiCodec](https://github.com/haoheliu/SemantiCodec-inference) - [Paper](https://arxiv.org/pdf/2405.00233): Ultra-low bitrate neural audio codec with a better semantic in the latent space.
 ## References
 1. [Hearing range](https://en.wikipedia.org/wiki/Hearing_range): The human range is commonly given as 20 to 20,000 Hz
 2. [CBR](https://en.wikipedia.org/wiki/Constant_bitrate) and [VBR](https://en.wikipedia.org/wiki/Variable_bitrate)
